@@ -15,3 +15,6 @@ Finally we get output of 3 topics, along with the clustered keywords / tokens fr
 
 **LDA topic clusters**
 ![LDA clustered topics](topics.png)
+
+
+In the coming weeks, I plan on covering snippets for dependency parsing, similarity index and bigram generation!
