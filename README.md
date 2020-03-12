@@ -9,4 +9,4 @@ Input to the LDA function is a BOW representation of words.
 I have considered only Nouns for topic modelling using POS tagging.
 
 Finally we get output of 3 topics, along with the clustered keywords/ tokens from the vocabulary
-![images/LDA.png]
+![topics.png]
