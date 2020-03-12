@@ -14,7 +14,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "#Twitterscrapper API is used to scrape tweets for a given hashtag in a given timeframe\n",
+    "#Twitterscrapper API  is used to scrape tweets for a given hashtag in a given timeframe\n",
     "!pip install twitterscraper==0.2.7\n",
     "from twitterscraper import query_tweets\n",
     "import datetime as dt \n",
