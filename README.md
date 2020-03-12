@@ -1,4 +1,4 @@
-# NLP
+# Topic Modelling using LDA
 This is my **first** upload on GitHub! 
 
 Performed topic modelling on twitter data extracted using the TwitterScrapper API.
